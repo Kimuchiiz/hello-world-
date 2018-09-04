@@ -1,4 +1,6 @@
 # hello-world-
-I'm a newbie
+I'm not a newbie
 
-Just start. Teach me senpai.
+I get it.See ya
+Bye.
+
